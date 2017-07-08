@@ -1,19 +1,46 @@
-/* estilizando o body */
 body {
-    font-family: "Times New Roman", "Crimson Text" ,serif;
-    background-color: #F2FFFC;
+	font-family: "Crimson Text", "Times New Roman", serif;
+	background-color: #F2FFFC;
+	font-size: 120%;
 }
-/* estilizando h1 e h2 ao mesmo tempo */
+
 h1, h2 {
-    font-family: "Open Sans Condensed","Arial", sans-serif;
+	font-family: "Open Sans Condensed", "Arial", sans-serif;
 }
-/* estilizando o seletor h1 */
-h1 {
-    text-align: center;
-    background-color: #851944;
-    color: #FFF;
+
+main h1 {
+	text-align: center;
+	background-color: #851944;
+	color: #FFF;
 }
-/* jistify nas tags p */
+
 p {
-    text-align: justify;
+	text-align: justify;
+}
+
+blockquote {
+	background-color: #D9E5E3;
+}
+
+aside {
+	background-color: #3C1D3D;
+	color: #F2FFFC;
+}
+
+footer {
+	background-color: #000;
+	color: #F2FFFC;
+}
+
+nav a {
+	color: #F2FFFC;
+}
+
+main a {
+	color: #851944;
+}
+
+aside a {
+	color: inherit;
+	font-family: "Open Sans Condensed", sans-serif;
 }
