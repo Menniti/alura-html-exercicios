@@ -1,0 +1,19 @@
+/* estilizando o body */
+body {
+    font-family: "Times New Roman", "Crimson Text" ,serif;
+    background-color: #F2FFFC;
+}
+/* estilizando h1 e h2 ao mesmo tempo */
+h1, h2 {
+    font-family: "Open Sans Condensed","Arial", sans-serif;
+}
+/* estilizando o seletor h1 */
+h1 {
+    text-align: center;
+    background-color: #851944;
+    color: #FFF;
+}
+/* jistify nas tags p */
+p {
+    text-align: justify;
+}
